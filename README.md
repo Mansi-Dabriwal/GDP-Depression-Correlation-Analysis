@@ -1,1 +1,1 @@
-# GDP-MentalHealth
+# GDP-Depression Correlation Analysis
